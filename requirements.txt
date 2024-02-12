@@ -1,0 +1,13 @@
+pandas
+numpy
+Pillow
+aiohttp
+asyncio
+gspread
+google-cloud-bigquery
+db-dtypes
+gspread_dataframe
+concurrent
+oauth2client
+google
+selenium
